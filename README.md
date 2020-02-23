@@ -1,5 +1,5 @@
 # Poisson-Minibatching for Gibbs Sampling with Convergence Rate Guarantees
-This repository contains code for [Poisson-Minibatching for Gibbs Sampling with Convergence Rate Guarantees](https://arxiv.org/abs/1911.09771), NeurIPS 2019
+This repository contains code for [Poisson-Minibatching for Gibbs Sampling with Convergence Rate Guarantees](https://arxiv.org/abs/1911.09771), NeurIPS 2019, Spotlight
 
 # Dependencies
 * [Julia 0.6](https://julialang.org/)
